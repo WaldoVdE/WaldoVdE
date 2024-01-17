@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on R
-- 📫 How to reach me waldo.vandenelschen@bevolkingsonderzoek.be...
+- 📫 How to reach me waldo.vandenelschen@bevolkingsonderzoek.be
 - ⚡ Spare time: I love riding bike and run outdoors
 
 
